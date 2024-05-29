@@ -17,7 +17,7 @@ public class MemberEntity extends BaseEntity {
     // MySQL, MariaDB의 경우 자동증가하는 필드 IDENTITY, Oracle의 경우 SEQUENCE, AUTO 유동적 선택
     private Long idx;
 
-    @Column(length = 20, nullable = false, unique = true)
+    @Column(length = 20, nullable = false, unique = true) //중복이면 db에서 받아주지 않음
     private String id;
     @Column(length = 20, nullable = false)
     private String pw;
