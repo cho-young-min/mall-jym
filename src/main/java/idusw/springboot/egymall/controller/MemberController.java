@@ -1,7 +1,7 @@
 package idusw.springboot.egymall.controller;
 
 import idusw.springboot.egymall.model.MemberDto;
-import idusw.springboot.egymall.serivce.MemberService;
+import idusw.springboot.egymall.service.MemberService;
 import jakarta.servlet.http.HttpSession;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

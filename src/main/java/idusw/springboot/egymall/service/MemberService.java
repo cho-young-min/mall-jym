@@ -1,4 +1,4 @@
-package idusw.springboot.egymall.serivce;
+package idusw.springboot.egymall.service;
 
 import idusw.springboot.egymall.entity.MemberEntity;
 import idusw.springboot.egymall.model.MemberDto;

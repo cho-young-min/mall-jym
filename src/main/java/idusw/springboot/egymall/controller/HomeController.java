@@ -1,6 +1,6 @@
 package idusw.springboot.egymall.controller;
 
-import idusw.springboot.egymall.serivce.HomeService;
+import idusw.springboot.egymall.service.HomeService;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,4 +1,4 @@
-package idusw.springboot.egymall.serivce;
+package idusw.springboot.egymall.service;
 
 public interface HomeService {
     // 외부 사용 방법을 제시, 상호작용의 기준 제시
